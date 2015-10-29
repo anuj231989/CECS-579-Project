@@ -20,11 +20,12 @@ Virtual Private Networks (VPN), extend a private network over a public network s
    **-** Creating configuration files for server and clients.  
    **-** Starting up the VPN and testing for initial connectivity.  
    **-** Configuring OpenVPN to run automatically on system startup.    
-**2) 3rd Oct - 20th Oct**  
+**2) 3rd Oct - 29th Oct**  
    **-** Controlling and setting up clients.    
    **-** Finishing the Setup of VPN.  
-   **-** Drafting a possible list of attacks that can be done.  
-**3) 21st Oct - 20th Nov**  
+   **-** Documenting the VPN setup and uploading to Git. 
+**3) 30th Oct - 20th Nov**
+  **-** Drafting a possible list of attacks that can be done. 
    **-** Executing the attacks on the existing setup and making observations of the same.  
    **-** Reasons behind success or failure of attacks and drafting and finalising a report.  
    
