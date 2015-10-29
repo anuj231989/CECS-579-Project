@@ -25,7 +25,7 @@ Virtual Private Networks (VPN), extend a private network over a public network s
    **-** Finishing the Setup of VPN.  
    **-** Documenting the VPN setup and uploading to Git.  
 **3) 30th Oct - 20th Nov** 
-  **-** Drafting a possible list of attacks that can be done.  
+   **-** Drafting a possible list of attacks that can be done.  
    **-** Executing the attacks on the existing setup and making observations of the same.  
    **-** Reasons behind success or failure of attacks and drafting and finalising a report.  
    
